@@ -1,2 +1,2 @@
-# Repo-minggu-8
-Tugas minggu 8
+# Repo-Minggu-8
+Tugas Minggu 8
